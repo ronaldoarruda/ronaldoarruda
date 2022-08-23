@@ -11,7 +11,7 @@ By now, I'm working as a Software Engineer at Neat Solutions in Brazil.
 
 #### Studying on
 
-Recently I started to develop some projects using Javascript and Angular 12+ to build websites and webcomponents.
+Recently I started to develop some projects using Javascript and React to build websites and webcomponents.
 
 #### Work
 
