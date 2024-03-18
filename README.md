@@ -21,8 +21,7 @@ Currently, I'm working at Neat Solutions as Frontend Software Developer Jr.
 
 If you want to ask something, please contact me on my social medias.
 
-* **Instagram** - [@nronaldo_7](https://www.instagram.com/nronaldo_7/)
-* **WhatsApp** - +55 (81) 9 7316-7823
+* **E-mail** - nronaldo_7@hotmail.com
 
 I'd be glad to answer any of your doubts.
 <!--
